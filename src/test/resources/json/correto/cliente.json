@@ -1,0 +1,11 @@
+{
+	"cep": "71933-000",
+	"email": "gtorre23@gmail.com",
+	"endereco": {
+		"bairro": "Centro",
+		"complemento": "Apto 901",
+		"logradouro": "Rua Floriano Peixoto",
+		"numero": "1500"
+	},
+	"nome": "Gustavo"
+}
