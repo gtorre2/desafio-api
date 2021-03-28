@@ -2,6 +2,8 @@
 
 API responsável pelo gerenciamento de clientes de uma empresa
 
+Autor: Gustavo Rodrigues Torre
+
 # Objetivo
 
 O objetivo principal deste sistema e demonstrar as funcionalidades de consulta e cadastro de uma novo cliente
